@@ -1,0 +1,18 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img{
+  height: 200px;
+}
+
+.reviewSites {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.container {
+  width:75%;
+}

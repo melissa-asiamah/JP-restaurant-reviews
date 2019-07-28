@@ -1,0 +1,18 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url('img/bread-color-copyspace-1565982.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Darker Grotesque', sans-serif;
+  color: white;
+}
+img{
+  height: 200px;
+}
+
+.jumbotron {
+  background: rgb(204, 204, 204);
+  background: rgba(204, 204, 204, 0.5);
+  color: white;
+}
